@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Camisa",
+    "price": 100,
+    "discount": 30,
+    "url": "https://picsum.photos/id/8/180"
+  },
+  {
+    "id": 2,
+    "name": "Jean",
+    "price": 250,
+    "discount": 20,
+    "url": "https://picsum.photos/id/12/180"
+  },
+  {
+    "id": 3,
+    "name": "Falda",
+    "price": 80,
+    "discount": 20,
+    "url": "https://picsum.photos/id/16/180"
+  },
+  {
+    "id": 4,
+    "name": "Blusa",
+    "price": 70,
+    "discount": 20,
+    "url": "https://picsum.photos/id/24/180"
+  },
+  {
+    "id": 5,
+    "name": "Pantalon",
+    "price": 220,
+    "discount": 30,
+    "url": "https://picsum.photos/id/30/180"
+  },
+  {
+    "id": 6,
+    "name": "Tennis",
+    "price": 180,
+    "discount": 30,
+    "url": "https://picsum.photos/id/36/180"
+  },
+  {
+    "id": 7,
+    "name": "Zapatos",
+    "price": 120,
+    "discount": 10,
+    "url": "https://picsum.photos/id/40/180"
+  },
+  {
+    "id": 8,
+    "name": "Correa",
+    "price": 10,
+    "discount": 10,
+    "url": "https://picsum.photos/id/44/180"
+  }
+]
